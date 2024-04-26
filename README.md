@@ -10,3 +10,5 @@ Integração com WhatsApp: Conecte-se diretamente ao WhatsApp para oferecer supo
 Operando inteiramente via plataforma web, o GUMIA simplifica o acesso e a gestão do robô de conversas, tornando-o acessível de qualquer lugar e a qualquer momento, sem a necessidade de instalações complexas ou manutenção de software dedicado.
 
 A plataforma GUMIA é a escolha perfeita para empresas que desejam otimizar a comunicação com clientes e maximizar a eficiência operacional. Implemente o GUMIA e transforme a maneira como você interage com seus clientes hoje!
+
+Link do vídeo: https://www.youtube.com/watch?v=BH55YuT70DM
